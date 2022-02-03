@@ -32,7 +32,6 @@ if __name__ == '__main__':
     unittest.main()
     print("Everything is good to go!")
 
-# a little example of a small test using assert
-    assert sum([1, 2, 3]) == 6, "Should be 6"
+
   
 

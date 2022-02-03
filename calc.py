@@ -18,6 +18,3 @@ def divide(x,y):
         raise ValueError('cannot devide by zero')
 
     return x / y
-
-
-add(5,17)

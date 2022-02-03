@@ -1,5 +1,3 @@
-from random import sample
-from struct import calcsize
 import unittest
 import math
 import calc
@@ -37,5 +35,4 @@ if __name__ == '__main__':
 # a little example of a small test using assert
     assert sum([1, 2, 3]) == 6, "Should be 6"
   
-n = range(1000)
-m = sample(n)
+
